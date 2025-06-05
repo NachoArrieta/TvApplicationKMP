@@ -1,5 +1,5 @@
 <resources>
-<string name="app_title">Kmp Movie</string>
+<string name="app_title">TV Application</string>
 <string name="movies">Movies</string>
 <string name="movie_detail">Movie Detail</string>
 <string name="tv_series">TV Series</string>
